@@ -1,3 +1,4 @@
+"use strict";
 // class University {
 //     name: String;
 //     constructor(name: String){

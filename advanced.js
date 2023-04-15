@@ -1,3 +1,4 @@
+"use strict";
 class Dyno {
     constructor(value, age) {
         this.value = value;
